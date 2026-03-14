@@ -1,8 +1,8 @@
-%define device pipa
-%define vendor xiaomi
+%define device Spacewar
+%define vendor nothing
 
-%define vendor_pretty Xiaomi
-%define device_pretty Pad 6
+%define vendor_pretty Nothing
+%define device_pretty Phone 1
 
 %define droid_target_aarch64 1
 
